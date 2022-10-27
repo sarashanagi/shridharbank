@@ -1,2 +1,3 @@
-Hello we are using JDBC for connecting to database.
+hello adding this line...
+Hello we are using JDBC for connecting to databaseii.
 Hello everyone ,this file contains the DB related code
